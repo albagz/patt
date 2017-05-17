@@ -90,13 +90,13 @@ Buttons are useful for the user to understand what may be imnportant or a link. 
 This is described as the important colour because of its size and its colour is akin to the whole scheme of the wesbite. 
 
 	
-<div>
- <h3>Buttons</h3>
+	<div>
+ 	<h3>Buttons</h3>
 		<ul class="actions">
 		<li><a href="#" class="button special">Important</a></li>
 	</ul>
 								
-</div>
+	</div>
 <br />
 
 
@@ -112,9 +112,7 @@ This is described as a normal button and can be seen around the website when acc
 	</div>
 <br />
 
-    <div>
-        My code goes here
-    </div>
+
 
 ### Button Three
 This button will be used when creating a form such as sending an email or accepting terms and conditions. Keeping it simple and as it says hidden.
