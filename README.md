@@ -101,6 +101,7 @@ This is described as the important colour because of its size and its colour is 
 
 
 ### Button Two
+![button 2](https://cloud.githubusercontent.com/assets/25457208/26155641/cd123804-3b0b-11e7-92c3-55f4658e5b1d.png)
 
 This is described as a normal button and can be seen around the website when accessing certain areas such as the next page or a link.
 
