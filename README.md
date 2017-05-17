@@ -85,8 +85,9 @@ This is usually below the navigation, and includes pre-information of the webist
 Buttons are useful for the user to understand what may be imnportant or a link. Having different colour buttons and hover colours can ensure that the user will psychologically know the difference.
 
 ### Button One
+![button 1](https://cloud.githubusercontent.com/assets/25457208/26155227/672f6706-3b0a-11e7-9c02-619cf04cddb4.png)
 
-*Description goes here*
+This is described as the important colour because of its size and its colour is akin to the whole scheme of the wesbite. 
 
 	
 <div>
