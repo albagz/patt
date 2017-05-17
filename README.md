@@ -22,7 +22,7 @@
 
 ## Navigation bar
 
-*Description goes here*
+![Alt text](https://cloud.githubusercontent.com/assets/25457208/26154388/29e649e4-3b07-11e7-9dc8-01e2d17e1458.png)
 
 	<div>
 	<html>
