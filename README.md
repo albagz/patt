@@ -216,7 +216,7 @@ The footer will house the scoail side of the website, with links to facebook, in
   
 **[⬆ back to top](#table-of-contents)**
 
-## Other Component
+## 
 
 *Description goes here*
 
