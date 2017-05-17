@@ -24,6 +24,8 @@
 
 ![Alt text](https://cloud.githubusercontent.com/assets/25457208/26154388/29e649e4-3b07-11e7-9dc8-01e2d17e1458.png)
 
+Usually created to guide the user around the website with ease. 
+
 	<div>
 	<html>
 	<head>
@@ -80,24 +82,22 @@ This is usually below the navigation, and includes pre-information of the webist
 
 ## Buttons
 
-*Description goes here*
+Buttons are useful for the user to understand what may be imnportant or a link. Having different colour buttons and hover colours can ensure that the user will psychologically know the difference.
 
 ### Button One
 
 *Description goes here*
 
-	<div>
- 	<h3>Buttons</h3>
-								<ul class="actions">
-									<li><a href="#" class="button special">Important</a></li>
-								</ul>
+	
+<div>
+ <h3>Buttons</h3>
+		<ul class="actions">
+		<li><a href="#" class="button special">Important</a></li>
+		</ul>
 								
-	</div>
+</div>
 <br />
 
-    <div>
-        My code goes here
-    </div>
 
 ### Button Two
 
