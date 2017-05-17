@@ -105,11 +105,11 @@ This is described as the important colour because of its size and its colour is 
 
 This is described as a normal button and can be seen around the website when accessing certain areas such as the next page or a link.
 
-<div>
-    <ul class="actions">							
+	<div>
+    	<ul class="actions">							
 	<li><a href="#" class="button">Normal</a></li>
 	</ul>
-</div>
+	</div>
 <br />
 
     <div>
@@ -119,16 +119,14 @@ This is described as a normal button and can be seen around the website when acc
 ### Button Three
 This button will be used when creating a form such as sending an email or accepting terms and conditions. Keeping it simple and as it says hidden.
 
-<div>
- <ul class="actions">
+	<div>
+ 	<ul class="actions">
 	<li><a href="#" class="button alt">Hidden</a></li>
 	</ul>
-</div>
+	</div>
 <br />
 
-    <div>
-        My code goes here
-    </div>
+  
 
 ### Button Four
 
