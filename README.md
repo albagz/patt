@@ -94,7 +94,7 @@ This is described as the important colour because of its size and its colour is 
  <h3>Buttons</h3>
 		<ul class="actions">
 		<li><a href="#" class="button special">Important</a></li>
-		</ul>
+	</ul>
 								
 </div>
 <br />
@@ -102,10 +102,12 @@ This is described as the important colour because of its size and its colour is 
 
 ### Button Two
 
-*Description goes here*
+This is described as a normal button and can be seen around the website when accessing certain areas such as the next page or a link.
 
 <div>
-    Code goes here to display actual element
+    <ul class="actions">							
+	<li><a href="#" class="button">Normal</a></li>
+	</ul>
 </div>
 <br />
 
@@ -114,11 +116,12 @@ This is described as the important colour because of its size and its colour is 
     </div>
 
 ### Button Three
-
-*Description goes here*
+This button will be used when creating a form such as sending an email or accepting terms and conditions. Keeping it simple and as it says hidden.
 
 <div>
-    Code goes here to display actual element
+ <ul class="actions">
+	<li><a href="#" class="button alt">Hidden</a></li>
+	</ul>
 </div>
 <br />
 
