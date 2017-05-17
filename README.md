@@ -195,16 +195,22 @@ A jumbotron is described as a large grey box with rounded corners. It helps rela
 
 ## Footer
 
-*Description goes here*
+The footer will house the scoail side of the website, with links to facebook, instagram and twitter. These will help boost the appearance of the website. 
 
-<div>
-    Code goes here to display actual element
-</div>
+	<div class="socialbar">
+  	<div class="container">
+    	<h3>Find us</h3>
+    <br><BR>
+    <div><a href="https://twitter.com/madasudesign"><img title="Twitter" src="https://cdn4.iconfinder.com/data/icons/miu-flat-social/60/twitter-48.png" alt="Twitter" width="35" height="35" /></a> <a href="https://www.facebook.com/madasudesign"><img title="Facebook" src="https://cdn4.iconfinder.com/data/icons/miu-flat-social/60/facebook-48.png" alt="Facebook" width="35" height="35" /></a> <a href="mailto: dainpenman@gmail.com"><img title="Email" src="https://cdn4.iconfinder.com/data/icons/miu-flat-social/60/mail-48.png" alt="Email" width="35" height="35" /></a>
+      <a href="www.instagram.com/madasudesign"><img title="Instagram" src="https://cdn3.iconfinder.com/data/icons/social-circle/512/social_6-48.png" alt="Instagram" width="35" height="35" /></a></div>
+         
+ 
+  	</div>
+  	</div>
+
 <br />
 
-    <div>
-        My code goes here
-    </div>
+    
   
 **[⬆ back to top](#table-of-contents)**
 
