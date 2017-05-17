@@ -197,7 +197,7 @@ A jumbotron is described as a large grey box with rounded corners. It helps rela
 ![footer](https://cloud.githubusercontent.com/assets/25457208/26158507/fa18c7b6-3b13-11e7-90a7-1655ddcbd1c8.png)
 
 
-The footer will house the scoail side of the website, with links to facebook, instagram and twitter. These will help boost the appearance of the website. 
+The footer will house the social side of the website, with links to facebook, instagram and twitter. These will help boost the appearance of the website. 
 
 	<div class="socialbar">
   	<div class="container">
