@@ -116,6 +116,7 @@ This is described as a normal button and can be seen around the website when acc
 
 ### Button Three
 ![button 3](https://cloud.githubusercontent.com/assets/25457208/26155651/d4de7c64-3b0b-11e7-91bd-16c7123bd870.png)
+
 This button will be used when creating a form such as sending an email or accepting terms and conditions. Keeping it simple and as it says hidden.
 
 	<div>
@@ -129,42 +130,44 @@ This button will be used when creating a form such as sending an email or accept
 
 ### Button Four
 
-*Description goes here*
+This is the big button used to grab the audiences attention.
 
-<div>
-    Code goes here to display actual element
-</div>
+
+	<div>
+    	<ul class="actions">
+	<li><a href="#" class="button special big">Big</a></li>
+	</ul>
+	</div>
 <br />
 
-    <div>
-        My code goes here
-    </div>
   
 ### Button Five
 
-*Description goes here*
+Used when users are selecting items.
 
-<div>
-    Code goes here to display actual element
-</div>
+	
+	<div>
+    	<ul class="actions">
+	<li><a href="#" class="button">Medium</a></li>
+	</ul>
+	</div>
 <br />
 
-    <div>
-        My code goes here
-    </div>
+
 
 ### Button Six
 
-*Description goes here*
+Another example of keeping it simple and effective by having a small button to do commamnds for the user such as login and sign up. 
 
-<div>
-    Code goes here to display actual element
-</div>
+	
+	<div>
+    	<ul class="actions">
+	<li><a href="#" class="button alt small">Small</a></li>
+	</ul>
+	</div>
 <br />
 
-    <div>
-        My code goes here
-    </div>
+ 
   
 **[⬆ back to top](#table-of-contents)**
 
