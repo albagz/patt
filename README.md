@@ -74,9 +74,6 @@ This is usually below the navigation, and includes pre-information of the webist
 	</div>
 <br />
 
-    <div>
-        My code goes here
-    </div>
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -179,14 +176,16 @@ Another example of keeping it simple and effective by having a small button to d
 
 *Description goes here*
 
-<div>
-    Code goes here to display actual element
-</div>
+	<div>
+    	 <div class="container">
+     	 <div class="jumbotron">
+        <h1>Jumbotron</h1>
+        <p>This is a Jumbotron.</p>
+        <p><a class="btn btn-primary btn-large">Learn more</a></p>
+      </div>
+	</div>
 <br />
 
-    <div>
-        My code goes here
-    </div>
   
 **[⬆ back to top](#table-of-contents)**
 
