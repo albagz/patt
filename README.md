@@ -81,7 +81,7 @@ This is usually below the navigation, and includes pre-information of the webist
 
 Buttons are useful for the user to understand what may be imnportant or a link. Having different colour buttons and hover colours can ensure that the user will psychologically know the difference.
 
-### Button One
+### Important Button
 ![button 1](https://cloud.githubusercontent.com/assets/25457208/26155227/672f6706-3b0a-11e7-9c02-619cf04cddb4.png)
 
 This is described as the important colour because of its size and its colour is akin to the whole scheme of the wesbite. 
@@ -97,7 +97,7 @@ This is described as the important colour because of its size and its colour is 
 <br />
 
 
-### Button Two
+### Link/Page Button
 ![button 2](https://cloud.githubusercontent.com/assets/25457208/26155641/cd123804-3b0b-11e7-92c3-55f4658e5b1d.png)
 
 This is described as a normal button and can be seen around the website when accessing certain areas such as the next page or a link.
@@ -111,7 +111,7 @@ This is described as a normal button and can be seen around the website when acc
 
 
 
-### Button Three
+### Email Button
 ![button 3](https://cloud.githubusercontent.com/assets/25457208/26155651/d4de7c64-3b0b-11e7-91bd-16c7123bd870.png)
 
 This button will be used when creating a form such as sending an email or accepting terms and conditions. Keeping it simple and as it says hidden.
@@ -125,7 +125,7 @@ This button will be used when creating a form such as sending an email or accept
 
   
 
-### Button Four
+### Attention button
 ![button 4](https://cloud.githubusercontent.com/assets/25457208/26155654/d9a0c7fc-3b0b-11e7-8733-f38726756edb.png)
 
 
@@ -140,7 +140,7 @@ This is the big button used to grab the audiences attention.
 <br />
 
   
-### Button Five
+### Item select button
 ![button 5](https://cloud.githubusercontent.com/assets/25457208/26155661/e00376c6-3b0b-11e7-82d1-fd5fca2f2e85.png)
 
 Used when users are selecting items.
@@ -155,7 +155,7 @@ Used when users are selecting items.
 
 
 
-### Button Six
+### Login Button
 ![button 6](https://cloud.githubusercontent.com/assets/25457208/26155672/e588a22e-3b0b-11e7-966a-505601bb4fd8.png)
 
 Another example of keeping it simple and effective by having a small button to do commamnds for the user such as login and sign up. 
@@ -171,13 +171,14 @@ Another example of keeping it simple and effective by having a small button to d
  
   
 **[⬆ back to top](#table-of-contents)**
+
+
+
+
+## Jumbotron
 ![jumbo](https://cloud.githubusercontent.com/assets/25457208/26156471/6189973c-3b0e-11e7-8b68-8a72c1e1a0f6.png)
 
 A jumbotron is described as a large grey box with rounded corners. It helps relay important information to the audience by using the large grey box.
-
-## Jumbotron
-
-*Description goes here*
 
 	<div>
     	 <div class="container">
