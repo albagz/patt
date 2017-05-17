@@ -17,7 +17,7 @@
      * [Button six](#button-six)
   1. [Jumbotron](#jumbotron)
   1. [Footer](#footer)
-  1. [Other component](#other-component)
+  1. [Login screen](#other-component)
 
 
 ## Navigation bar
@@ -216,17 +216,18 @@ The footer will house the scoail side of the website, with links to facebook, in
   
 **[⬆ back to top](#table-of-contents)**
 
-## 
+## Login screen
 
-*Description goes here*
+This is a standard login screen, that pops up when clicking on the initial login button.
 
-<div>
-    Code goes here to display actual element
-</div>
+	<h4>Login</h4>
+        <form>
+          <input type="text" name="username" class="username form-control" placeholder="Username"/>
+          <input type="password" name="password" class="password form-control" placeholder="password"/>
+          <input class="btn login" type="submit" value="Login" />
+        </form>
 <br />
 
-    <div>
-        My code goes here
-    </div>
+
   
 **[⬆ back to top](#table-of-contents)**
