@@ -1,1 +1,22 @@
-
+<html>
+	<head>
+		<title>Pattern Library</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="patt.css" />
+	</head>
+	<body class="subpage">
+<!-- Buttons -->
+								<h3>Buttons</h3>
+								<ul class="actions">
+									<li><a href="#" class="button special">Important</a></li>
+									<li><a href="#" class="button">Normal</a></li>
+									<li><a href="#" class="button alt">Hidden</a></li>
+								</ul>
+								<ul class="actions">
+									<li><a href="#" class="button special big">Big</a></li>
+									<li><a href="#" class="button">Medium</a></li>
+									<li><a href="#" class="button alt small">Small</a></li>
+								</ul>
+                </body>
+                </html
