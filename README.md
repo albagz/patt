@@ -51,20 +51,23 @@
 <br />
   
 
-    <div>
-        My code goes here
-    </div>
-    
 
 **[⬆ back to top](#table-of-contents)**
 
 ## Header Element
 
-*Description goes here*
+This is usually below the navigation, and includes pre-information of the webiste or sometimes pictures. Helps grab the users attention. 
 
-<div>
-    Code goes here to display actual element
-</div>
+	<div>
+   	<section>
+  	<span>Header!</span>
+	</section>
+	
+	section {
+ 	 height: 100vh;
+ 	 background: #F0544F;
+	}
+	</div>
 <br />
 
     <div>
