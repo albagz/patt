@@ -24,8 +24,8 @@
 
 *Description goes here*
 
-<div>
-<html>
+	<div>
+	<html>
 	<head>
 		<title>Pattern Library</title>
 		<meta charset="utf-8" />
@@ -33,7 +33,7 @@
 		<link rel="stylesheet" href="patt.css" />
 	</head>
 	<body class="subpage">
-<header id="header">
+	<header id="header">
 				<div class="inner">
 					<a href="index.html" class="logo">Pattern Library</a>
 					<nav id="nav">
@@ -44,10 +44,10 @@
 					</nav>
 					<a href="#navPanel" class="navPanelToggle"><span class="fa fa-bars"></span></a>
 				</div>
-</header>
+	</header>
 	</body>
-</html>
-</div>
+	</html>
+	</div>
 <br />
   
 
@@ -81,13 +81,13 @@
 
 *Description goes here*
 
-<div>
- <h3>Buttons</h3>
+	<div>
+ 	<h3>Buttons</h3>
 								<ul class="actions">
 									<li><a href="#" class="button special">Important</a></li>
 								</ul>
 								
-</div>
+	</div>
 <br />
 
     <div>
