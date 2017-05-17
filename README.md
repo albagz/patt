@@ -115,6 +115,7 @@ This is described as a normal button and can be seen around the website when acc
 
 
 ### Button Three
+![button 3](https://cloud.githubusercontent.com/assets/25457208/26155651/d4de7c64-3b0b-11e7-91bd-16c7123bd870.png)
 This button will be used when creating a form such as sending an email or accepting terms and conditions. Keeping it simple and as it says hidden.
 
 	<div>
