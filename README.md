@@ -17,7 +17,7 @@
      * [Button six](#button-six)
   1. [Jumbotron](#jumbotron)
   1. [Footer](#footer)
-  1. [Login screen](#other-component)
+  1. [Login screen](#login-screen)
 
 
 ## Navigation bar
@@ -217,6 +217,8 @@ The footer will house the scoail side of the website, with links to facebook, in
 **[⬆ back to top](#table-of-contents)**
 
 ## Login screen
+![login](https://cloud.githubusercontent.com/assets/25457208/26159460/87ef9a7c-3b16-11e7-88fe-b3c7f7a9eed0.png)
+
 
 This is a standard login screen, that pops up when clicking on the initial login button.
 
