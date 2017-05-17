@@ -171,6 +171,9 @@ Another example of keeping it simple and effective by having a small button to d
  
   
 **[⬆ back to top](#table-of-contents)**
+![jumbo](https://cloud.githubusercontent.com/assets/25457208/26156471/6189973c-3b0e-11e7-8b68-8a72c1e1a0f6.png)
+
+A jumbotron is described as a large grey box with rounded corners. It helps relay important information to the audience by using the large grey box.
 
 ## Jumbotron
 
