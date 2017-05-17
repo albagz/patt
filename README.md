@@ -55,7 +55,7 @@
 **[⬆ back to top](#table-of-contents)**
 
 ## Header Element
-![Alt text](![header2](https://cloud.githubusercontent.com/assets/25457208/26155023/b0a85fa6-3b09-11e7-9642-b7a90912bfef.png)
+![header2](https://cloud.githubusercontent.com/assets/25457208/26155023/b0a85fa6-3b09-11e7-9642-b7a90912bfef.png)
 
 
 This is usually below the navigation, and includes pre-information of the webiste or sometimes pictures. Helps grab the users attention. 
