@@ -156,7 +156,7 @@ Used when users are selecting items.
 
 
 ### Login Button
-![button 6](https://cloud.githubusercontent.com/assets/25457208/26155672/e588a22e-3b0b-11e7-966a-505601bb4fd8.png)
+![87ef9a7c-3b16-11e7-88fe-b3c7f7a9eed0](https://cloud.githubusercontent.com/assets/25457208/26242616/f5d19160-3c80-11e7-9c08-da2b5c089fb4.png)
 
 Another example of keeping it simple and effective by having a small button to do commamnds for the user such as login and sign up. 
 
