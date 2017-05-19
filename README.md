@@ -163,7 +163,7 @@ Another example of keeping it simple and effective by having a small button to d
 	
 	<div>
     	<ul class="actions">
-	<li><a href="#" class="button alt small">Small</a></li>
+	<li><a href="#" class="button alt small">Login</a></li>
 	</ul>
 	</div>
 <br />
